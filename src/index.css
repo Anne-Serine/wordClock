@@ -1,0 +1,14 @@
+:root {
+  --clock-face: #737764;
+  --frame: #493328;
+  --inactive: #4b4e48;
+  --active: #fff1cc;
+  --brass: #bd8b48;
+  --page-background: #eee7dc;
+}
+
+body {
+  background: var(--page-background);
+  margin: 0;
+  
+}
